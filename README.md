@@ -1,2 +1,2 @@
 # Map.baiduAPINote
-百度地图API学习
+百度地图API笔记
